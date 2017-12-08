@@ -1,2 +1,2 @@
-# ParisRNA
-functional genes of Paris polyphylla var. yunnanensis
+# RNAseq
+differentially expression genes of PPY (tissues and growth stage)
